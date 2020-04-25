@@ -1,4 +1,4 @@
-# Clustering_implementation
+# Clustering Algorithms
 
 One of the most interesting field of machine learning is clustering.
 Clustering are used to put objects that are similar into one category or class.
